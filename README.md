@@ -9,11 +9,11 @@
 
 - 👨‍💻 My portfolio [https://shamim-portfolio-site.vercel.app/](https://shamim-portfolio-site.vercel.app/)
 
-//- 💬 Ask me about **react, mern, frontend**
+
 
 - 📫 How to reach me **shamimshihab56@gmail.com**
 
-//- ⚡ Fun fact **I love hiking and watching soccer**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
